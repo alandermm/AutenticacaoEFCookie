@@ -1,0 +1,10 @@
+C:\Users\01317235614\backend\autenticacaoEfCookie\bin\Debug\netcoreapp2.0\autenticacaoEfCookie.deps.json
+C:\Users\01317235614\backend\autenticacaoEfCookie\bin\Debug\netcoreapp2.0\autenticacaoEfCookie.runtimeconfig.json
+C:\Users\01317235614\backend\autenticacaoEfCookie\bin\Debug\netcoreapp2.0\autenticacaoEfCookie.runtimeconfig.dev.json
+C:\Users\01317235614\backend\autenticacaoEfCookie\bin\Debug\netcoreapp2.0\autenticacaoEfCookie.dll
+C:\Users\01317235614\backend\autenticacaoEfCookie\bin\Debug\netcoreapp2.0\autenticacaoEfCookie.pdb
+C:\Users\01317235614\backend\autenticacaoEfCookie\obj\Debug\netcoreapp2.0\autenticacaoEfCookie.csproj.CoreCompileInputs.cache
+C:\Users\01317235614\backend\autenticacaoEfCookie\obj\Debug\netcoreapp2.0\autenticacaoEfCookie.AssemblyInfoInputs.cache
+C:\Users\01317235614\backend\autenticacaoEfCookie\obj\Debug\netcoreapp2.0\autenticacaoEfCookie.AssemblyInfo.cs
+C:\Users\01317235614\backend\autenticacaoEfCookie\obj\Debug\netcoreapp2.0\autenticacaoEfCookie.dll
+C:\Users\01317235614\backend\autenticacaoEfCookie\obj\Debug\netcoreapp2.0\autenticacaoEfCookie.pdb
