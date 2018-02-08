@@ -14,7 +14,7 @@ namespace autenticacaoEfCookie.Dados
         protected override void OnModelCreating(ModelBuilder modelBuilder){
             modelBuilder.Entity<Usuario>().ToTable("Usuarios");
             modelBuilder.Entity<Permissao>().ToTable("Permissoes");
-            modelBuilder.Entity<UsuarioPermissao>().ToTable("UsuariosPermissoes");
+            modelBuilder.Entity<UsuarioPermissao>().ToTable("UsuarioPermissoes");
 
             base.OnModelCreating(modelBuilder);
         }
